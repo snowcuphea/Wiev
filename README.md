@@ -24,9 +24,11 @@
 
 ### 시연
 
-![DB](images/면접영상.gif)
+![DB](images/면접영상3.gif)
 
 ![DB](images/면접영상.gif)
+
+
 
 
 
