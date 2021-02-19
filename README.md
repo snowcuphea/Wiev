@@ -18,6 +18,20 @@
 
 ![DB](images/DB-1613720596865.png)
 
+![DB](images/mysql.png)
+
+
+
+### 시연
+
+![DB](images/면접영상.gif)
+
+![DB](images/면접영상.gif)
+
+
+
+
+
 #### 기술 스택
 
 ![기술스택](/images/기술스택.png)
